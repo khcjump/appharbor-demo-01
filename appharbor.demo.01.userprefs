@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="appharbor.demo.01.csproj">
+﻿<Properties StartupConfiguration="{905536B8-CE0A-4C19-8152-ED1AC3F5B3BA}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="App_Start/WebApiConfig.cs">
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="17" Column="47" />
+      <File FileName="Controllers/HomeController.cs" Line="17" Column="17" />
       <File FileName="App_Start/RouteConfig.cs" Line="1" Column="1" />
-      <File FileName="App_Start/WebApiConfig.cs" Line="23" Column="1" />
+      <File FileName="App_Start/WebApiConfig.cs" Line="6" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
